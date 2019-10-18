@@ -1,1 +1,2 @@
-This is a test, also Jacky was late
+This is a second test
+Multiple lines will be commited
